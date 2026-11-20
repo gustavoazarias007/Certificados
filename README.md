@@ -11,5 +11,4 @@ Repositório destinado à organização dos meus certificados e cursos realizado
 
 ### Certificado
 
-![Certificado de Cybersegurança FIAP](./certificado-cyberseguranca-fiap.png)
-
+![Certificado de Cybersegurança FIAP](./certificado-cyberseguranca-fiap.png.png)
