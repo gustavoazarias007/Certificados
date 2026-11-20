@@ -11,5 +11,5 @@ Repositório destinado à organização dos meus certificados e cursos realizado
 
 ### Certificado
 
-Certificado de conclusão do curso Cybersegurança, disponibilizado pela FIAP.
+![Certificado de Cybersegurança FIAP](./certificado-cyberseguranca-fiap.png)
 
