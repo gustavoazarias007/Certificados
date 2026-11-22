@@ -22,5 +22,5 @@ Repositório destinado à organização dos meus certificados e cursos realizado
 
 ### Certificado
 
-![Certificado de IA Generativa para Design FIAP](certificado-cyberseguranca-fiap.png.png)
+![Certificado de IA Generativa para Design FIAP](certificado-IA _Generativa_para_Design-fiap.png.png)
 
